@@ -4,6 +4,7 @@ module.exports = {
         author: `Tom Brierley`
     },
     plugins: [
+		'gatsby-plugin-sass',
         'gatsby-plugin-catch-links',
         'gatsby-plugin-react-helmet',
         {

@@ -1,0 +1,24 @@
+// Global
+@import "_global/functions",
+		"_global/mixins",
+		"_global/fonts",
+		"_global/variables",
+		"_global/normalize",
+        "_global/typography",
+		"_global/animations",
+		"_global/base",
+		"_global/forms",
+		"_global/images",
+		"_global/print";
+
+// Objects
+@import "_objects/*.scss";
+
+// Components
+@import "_components/*.scss";
+
+// Utilities
+@import "_utilities/*.scss";
+
+// Scope
+@import "_scope/*.scss";
